@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**rawand1998/rawand1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>About Me 📌</h1>
 
-Here are some ideas to get you started:
+👋 I am Rawand Hosam Jaradh.
+💻 I am computer engineer.
+💁‍♂️ Graduated from academic code.
+💁‍♂️ Graduated from Google for start-up.
+🌱 I am currently focusing on learning  React.
+😎 Trainee at Google for start up.
+🥅 My Goals: Contribute more to Open Source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Here on my GitHub profile you can see all my projects. You can contact with me 
+ 
+[![](https://img.shields.io/badge/linkedin-Rawand-brightgreen)](https://www.linkedin.com/in/rawand-jaradh-a27894198/)
+[![](https://img.shields.io/badge/Gamil-rawandgaradh@gmail.com-red)](mailto:rawandgaradh@gmail.com)
+
+        
+        
+        
+<h2> My Technology: </h2>
+
+![](https://i.imgur.com/tn8XrT3.png) ![](https://i.imgur.com/u3PDdB7.png) ![](https://i.imgur.com/DEsdxki.png) ![](https://i.imgur.com/V4JEmYL.png) ![](https://i.imgur.com/OuE62Np.png) ![](https://i.imgur.com/c7ixPxY.png) ![](https://i.imgur.com/Vm1Z2m8.png) ![](https://i.imgur.com/Bm8UWtO.png) ![](https://i.imgur.com/rX6kRge.png) ![](https://i.imgur.com/kmBXs6W.png)  ![](https://i.imgur.com/Sp7gLck.png) ![](https://i.imgur.com/XEv8Q6O.png) ![](https://i.imgur.com/KAEpGgN.png) 
+
+
+
+        <h2>Quik Overview</h2>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rawand1998&count_private=true&theme=default&hide_border=false" alt = "rawand1998's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rawand1998&count_private=true&theme=default&hide_border=false" alt = "rawand1998's Rating" width = 400 >
+
+</p>
+
