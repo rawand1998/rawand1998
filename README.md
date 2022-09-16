@@ -25,7 +25,7 @@ Here on my GitHub profile you can see all my projects. You can contact with me
 
 
 
-        <h2>Quik Overview</h2>
+<h2>Quik Overview</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rawand1998&count_private=true&theme=default&hide_border=false" alt = "rawand1998's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=rawand1998&count_private=true&theme=default&hide_border=false" alt = "rawand1998's Rating" width = 400 >
