@@ -2,13 +2,13 @@
 
 <h1>About Me 📌</h1>
 
-👋 I am Rawand Hosam Jaradh.
-💻 I am computer engineer.
-💁‍♂️ Graduated from academic code.
-💁‍♂️ Graduated from Google for start-up.
-🌱 I am currently focusing on learning  React.
-😎 Trainee at Google for start up.
-🥅 My Goals: Contribute more to Open Source projects.
+👋 I am Rawand Hosam Jaradh.<br/>
+💻 I am computer engineer.<br/>
+💁‍♂️ Graduated from academic code.<br/>
+💁‍♂️ Graduated from Google for start-up.<br/>
+🌱 I am currently focusing on learning  React.<br/>
+😎 Trainee at Google for start up.<br/>
+🥅 My Goals: Contribute more to Open Source projects.<br/>
 
 
 Here on my GitHub profile you can see all my projects. You can contact with me 
