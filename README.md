@@ -3,11 +3,8 @@
 <h1>About Me 📌</h1>
 
 👋 I am Rawand Hosam Jaradh.<br/>
-💻 I am computer engineer.<br/>
-💁‍♂️ Graduated from academic code.<br/>
-💁‍♂️ Graduated from Google for start-up.<br/>
+💻 I am Front-end developer.<br/>
 🌱 I am currently focusing on learning  React.<br/>
-😎 Trainee at Google for start up.<br/>
 🥅 My Goals: Contribute more to Open Source projects.<br/>
 
 
